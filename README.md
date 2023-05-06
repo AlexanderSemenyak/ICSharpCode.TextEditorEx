@@ -1,3 +1,5 @@
+origin: https://github.com/StefH/ICSharpCode.TextEditorEx
+
 # ICSharpCode.TextEditorEx
 
 [![Build status](https://ci.appveyor.com/api/projects/status/cyaqbvsn9lahvtg2?svg=true)](https://ci.appveyor.com/project/StefH/icsharpcode-texteditorex)
